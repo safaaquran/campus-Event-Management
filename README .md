@@ -46,4 +46,4 @@ This project is a Java Servlet/JSP MVC web app for campus event creation, discov
 - `/secure/admin/users`
 
 ## Author
-**Safaa Quraan**, Computer Science graduate, Jordan University of Science and Technology (JUST).
+**Safaa Quraan**, Software Engineering graduate, Jordan University of Science and Technology (JUST).
